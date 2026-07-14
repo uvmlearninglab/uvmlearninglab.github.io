@@ -1,3 +1,4 @@
-theme: jekyll-theme-minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
 title: UVM Learning Lab's homepage
 description: Bookmark this to keep an eye on project updates!
